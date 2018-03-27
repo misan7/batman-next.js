@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/misan7/batman-next.js#readme",
   "dependencies": {
+    "isomorphic-unfetch": "^2.0.0",
     "next": "^5.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
